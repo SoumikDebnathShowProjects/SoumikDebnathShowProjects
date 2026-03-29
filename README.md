@@ -23,11 +23,7 @@
 ```javascript
 const soumik = {
   role        : "Full Stack Developer",
-  university  : "Techno International New Town, Kolkata",
-  degree      : "B.Tech CSE (2022 – 2026)",
-  cgpa        : 7.84,
-  stack       : ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL"],
-  currentFocus: ["GenAI Integration", "WebSockets", "System Design"],
+  degree      : "B.Tech CSE (2022 – 2026) TINT",
   funFact     : "I shoot street photography 📷 when I'm not shipping code 🚀",
 };
 ```
